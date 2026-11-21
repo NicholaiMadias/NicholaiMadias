@@ -20,7 +20,7 @@ I build practical systems that reduce operational friction: endpoint and identit
 | [Nicholai.online](https://nicholai.online) · [Source](https://github.com/NicholaiMadias/profile) | Personal engineering portfolio, productivity tools, and interactive learning experiences. |
 | [Amazing Grace Home Living](https://www.amazinggracehl.org) · [Source](https://github.com/Amazing-Grace-Home-Living/website) | Rental-site experience, mobile navigation, educational arcade, automated site checks, and deployment maintenance. |
 | [Voice of Jesus Ministry](https://voiceofjesusministry.net) · [Source](https://github.com/Voice-of-Jesus-Ministry/website) | Accessible content, Bible study resources, outreach information, and a modern nonprofit web presence. |
-| [Kiwi Next source fork](https://github.com/NicholaiMadias/src.nexus) | Chromium-based browser source exploration and maintenance; clearly identified as a fork. |
+| [Enterprise Endpoint Automation Toolbox](https://github.com/Amazing-Grace-Home-Living/Toolbox) | Working **Python and PowerShell** tools: Intune / Workspace ONE inventory normalization, offline compliance audits, CSV/JSON/HTML reports, and before/after drift checks. |
 
 ## How I work
 
