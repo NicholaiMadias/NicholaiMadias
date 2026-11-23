@@ -1,10 +1,10 @@
-# Nicholai Madias
+# Nicholai Maro Madias
 
 **Senior Platform Engineer · Enterprise Endpoint Management · Automation · Applied AI**
 
 I build endpoint and identity automation for device onboarding, inventory, compliance reporting, and deployment. I also build web tools and interactive training for platform engineers.
 
-[Portfolio](https://nicholai.online) · [Certification Academy](https://nicholai.online/academy) · [Endpoint Toolkit Demo](https://nicholai.online/tools/enterprise-endpoint)
+[Portfolio](https://nicholai.online) · [LinkedIn](https://www.linkedin.com/in/nicholaimadias/) · [Certification Academy](https://nicholai.online/academy) · [Endpoint Toolkit Demo](https://nicholai.online/tools/enterprise-endpoint)
 
 ## Engineering focus
 
