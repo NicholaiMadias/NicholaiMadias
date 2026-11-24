@@ -1,8 +1,10 @@
 # Nicholai Maro Madias
 
-**Senior Platform Engineer · Enterprise Endpoint Management · Automation · Applied AI**
+**Senior Platform Engineer | Infrastructure Architect**
 
-I build endpoint and identity automation for device onboarding, inventory, compliance reporting, and deployment. I also build web tools and interactive training for platform engineers.
+I have 15+ years in enterprise IT. At HCLTech, I supported endpoint and identity platforms spanning 70,000+ users and devices for Verizon. At Infosys, I supported Google Workspace identity operations for 350,000+ users and helped migrate more than 400,000 accounts from Microsoft 365.
+
+I currently serve as Registered Agent and System Administrator at Amazing Grace Home Living, where I manage hybrid infrastructure and build PowerShell, Python, and Copilot workflows. [Experience and education](https://nicholai.online/profile#experience)
 
 [Portfolio](https://nicholai.online) · [LinkedIn](https://www.linkedin.com/in/nicholaimadias/) · [Certification Academy](https://nicholai.online/academy) · [Endpoint Toolkit Demo](https://nicholai.online/tools/enterprise-endpoint)
 
