@@ -23,6 +23,7 @@ I currently serve as Registered Agent and System Administrator at Amazing Grace 
 | [Amazing Grace Home Living](https://www.amazinggracehl.org) · [Source](https://github.com/Amazing-Grace-Home-Living/website) | Rental-site experience, mobile navigation, educational arcade, automated site checks, and deployment maintenance. |
 | [Voice of Jesus Ministry](https://voiceofjesusministry.net) · [Source](https://github.com/Voice-of-Jesus-Ministry/website) | Accessible content, Bible study resources, outreach information, and a modern nonprofit web presence. |
 | [Enterprise Endpoint Automation Toolbox](https://github.com/Amazing-Grace-Home-Living/Toolbox) | Read-only Python and PowerShell tools for Intune and Workspace ONE inventory, offline compliance reports, and before-and-after drift checks. Includes sample data for evaluation. |
+| [The Mystery of the Seven Stars](https://github.com/StudioNexus/games) | Standalone JavaScript Bible quiz with three stages, a scoreboard saved in the browser, and optional audio. |
 
 ## How I work
 
