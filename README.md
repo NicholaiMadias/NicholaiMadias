@@ -1,12 +1,19 @@
 # Nicholai Maro Madias
 
-**Senior Platform Engineer | Infrastructure Architect**
+**Senior Platform Engineer | Google Workspace Migration & Automation**
 
 I have 15+ years in enterprise IT. At HCLTech, I supported endpoint and identity platforms spanning 70,000+ users and devices for Verizon. At Infosys, I supported Google Workspace identity operations for 350,000+ users and helped migrate more than 400,000 accounts from Microsoft 365.
 
 I currently serve as Registered Agent and System Administrator at Amazing Grace Home Living, where I manage hybrid infrastructure and build PowerShell, Python, and Copilot workflows. [Experience and education](https://nicholai.online/profile#experience)
 
 [Portfolio](https://nicholai.online) · [LinkedIn](https://www.linkedin.com/in/nicholaimadias/) · [Certification Academy](https://nicholai.online/academy) · [Endpoint Toolkit Demo](https://nicholai.online/tools/enterprise-endpoint)
+
+## Google Workspace migration and automation
+
+- Configured mail routing and domains at Infosys for a Microsoft 365 to Google Workspace migration spanning 400,000+ accounts.
+- Supported Microsoft 365 to Google Workspace migration work at HCLTech and Amazing Grace Home Living.
+- Spreadsheet automation skills include Google Sheets, Google Apps Script, Excel VBA and VBA macro conversion. Workspace development skills include JavaScript, HTML, CSS, Sheets sidebars and Google Workspace APIs.
+- Built a training portal for Google engineering teams and documented fixes for support and engineering teams.
 
 ## Engineering focus
 
